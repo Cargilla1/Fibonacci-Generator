@@ -1,12 +1,5 @@
 # Fibonacci-Generator
-This program will generate a sequence in the Fibonacci equation. 
-
-namespace Fibonacci_Sequence
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+By utilizing recursion this program will generate a sequence in the Fibonacci equation. The user must type in the squence they wish to call. 
             
             Console.WriteLine("What number in the fibonacci sequence do you wish to call?");
          
